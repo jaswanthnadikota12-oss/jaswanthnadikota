@@ -7,7 +7,6 @@ Hi, I'm Jaswanth
 
 - **GitHub Copilot Certification**
   - Issued by: GitHub
-  - Date: November 7, 2026
   - Earned: November 7, 2026
   - Valid until: November 8, 2028
   - Skills: GitHub Copilot, AI-assisted coding, Developer Productivity
