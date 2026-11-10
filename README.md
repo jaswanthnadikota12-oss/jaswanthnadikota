@@ -1,4 +1,4 @@
-<img width="1491" height="1245" alt="image" src="https://github.com/user-attachments/assets/02687351-3b24-4f4f-bbec-1d8631fad950" />***** My GitHub profile README and developer portfolio *****
+***** My GitHub profile README and developer portfolio *****
 
 Hi, I'm Jaswanth
  Computer Science Engineering Student
